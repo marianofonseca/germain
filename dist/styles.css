@@ -1,0 +1,132 @@
+* {
+ margin:0;
+ padding:0;
+ }
+ .subtitulo1, .subtitulo2, .nosotros{	
+	 font-size:20px;
+ }
+
+#logo{
+	width:200px;
+} 
+ 
+ h2{
+	 font-size:30px;
+ }
+ body{
+ background:#E3E8E7;
+  }
+
+  article{
+	  overflow:hidden;
+	background:#D2D5D5;
+  }
+
+.articulo, .articulo2, .articulo3, header, .main, footer{
+ background:#D2D5D5;
+ width:90%;
+ max-width:1000px;
+ margin:20px auto;
+ }
+
+ header nav{
+ background:#3B8B7C;
+ overflow:hidden;
+ }
+
+ header nav ul{
+ list-style:none;
+ }
+
+ header nav ul li{
+ float:left;
+ }
+nav{
+	position:static;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+}
+ header nav ul li a {
+	
+ padding:10px 20px;
+ display:block;
+ color:#fff;
+ text-decoration:none; 
+ }
+
+ header nav ul li a:hover{
+ background:#4AAD9B;
+ 
+ }
+
+ aside{
+	 
+ width:30%;
+ background:#B0B0B0;
+ float:left;
+ font-style:italic;
+}
+
+.articulo2{
+ 
+ 
+ width:70%;
+ float:left;
+ margin-bottom:30px;
+ }
+
+
+.articulo{
+
+width:70%;
+float:left;
+background:#fff;
+margin-bottom:30px;
+}
+
+.articulo3{
+
+width:70%;
+float:left;
+
+margin-bottom:30px;
+}
+
+ .articulo2{
+	 font-size:20px;
+margin:10px;
+	padding:5px;
+	 
+ }
+
+#shophie{
+	width:200px;
+	margin:10px;
+}
+ 
+img{
+	background:#E3E8E7;
+width:100px;
+height:;
+}	
+
+a{
+	text-decoration:none;
+	
+}
+
+.Nosotros, #nosotros{
+	margin:10px;
+	padding:5px;
+}
+
+#RESUMEN{
+
+font-size:30px;	
+}
+#RESUMEN1, #RESUMEN3, #RESUMEN2{
+	font-size:23px;
+	font-family:Asap;
+}
